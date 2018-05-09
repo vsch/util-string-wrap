@@ -1,0 +1,34 @@
+{
+  "name": "util-string-wrap",
+  "version": "0.1.0",
+  "description": "string prefix, suffix, wrap, related functions",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Vladimir Schneider",
+    "email": "vladimir.schneider@gmail.com",
+    "url": "https://github.com/vsch"
+  },
+  "dependencies": {
+    "lodash.isfunction": "^3.0.9",
+    "lodash.isstring": "^4.0.1"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "jest-each": "^0.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "string wrap/unwrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vsch/util-string-wrap.git"
+  },
+  "homepage": "https://github.com/vsch/util-string-wrap",
+  "bugs": {
+    "url": "https://github.com/vsch/util-string-wrap/issues"
+  }
+}
