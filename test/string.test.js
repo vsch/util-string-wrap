@@ -1,6 +1,6 @@
 "use strict";
 
-const each = require('jest-each');
+const each = require('jest-each').default;
 const utilStringWrap = require('util-string-wrap');
 const resolveFunctionArg = utilStringWrap.resolveFunctionArg;
 const ifStartsWith = utilStringWrap.ifStartsWith;
