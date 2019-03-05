@@ -1,6 +1,6 @@
 # util-string-wrap
 
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+[![experimental](https://badges.github.io/stability-badges/dist/experimental.svg)](https://github.com/badges/stability-badges)
 
 Small utility library implementing string prefixWith, suffixWith, wrapWith variations for
 testing, adding once, adding, removing of the corresponding construct.
@@ -23,5 +23,5 @@ npm install util-string-wrap --save
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/vsch/util-string-wrap/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](https://github.com/vsch/util-string-wrap/blob/master/LICENSE.md) for details.
 
